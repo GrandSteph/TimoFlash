@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BF169060-939D-4AF0-8195-FBDD3AC805AD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TimoFlash</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E52AD6B6-570A-4725-AADE-EFEE3A737FD6</key>
+		<string>https://github.com/GrandSteph/751.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>timoFlash/TimoFlash/TimoFlash.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E52AD6B6-570A-4725-AADE-EFEE3A737FD6</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/GrandSteph/751.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E52AD6B6-570A-4725-AADE-EFEE3A737FD6</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E52AD6B6-570A-4725-AADE-EFEE3A737FD6</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TimoFlash</string>
+		</dict>
+	</array>
+</dict>
+</plist>
